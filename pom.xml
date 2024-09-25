@@ -6,12 +6,16 @@
 	<groupId>shampoo</groupId>
 	<artifactId>shampoo-law</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
-	<name>springBootDemo</name>
+	<name>shampoo-law</name>
 	<description>Demo project for Spring Boot</description>
+    <modules>
+        <module>shampoo-law-domain</module>
+		<module>shampoo-law-application</module>
+	</modules>
 
-	<parent>
+    <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.3.RELEASE</version>
