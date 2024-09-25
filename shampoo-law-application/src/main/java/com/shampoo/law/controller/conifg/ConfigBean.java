@@ -1,4 +1,4 @@
-package com.xiaobo.model;
+package com.shampoo.law.controller.conifg;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

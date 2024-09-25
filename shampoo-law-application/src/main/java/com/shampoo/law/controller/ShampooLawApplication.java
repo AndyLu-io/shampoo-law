@@ -1,6 +1,6 @@
-package com.xiaobo;
+package com.shampoo.law.controller;
 
-import com.xiaobo.model.ConfigBean;
+import com.shampoo.law.controller.conifg.ConfigBean;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -8,9 +8,9 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 
 @SpringBootApplication
 @EnableConfigurationProperties({ConfigBean.class})
-public class SpringBootDemoApplication {
+public class ShampooLawApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDemoApplication.class, args);
+		SpringApplication.run(ShampooLawApplication.class, args);
 	}
 }

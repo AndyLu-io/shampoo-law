@@ -1,4 +1,4 @@
-package com.xiaobo.model;
+package com.shampoo.law.controller.conifg;
 
 /**
  * Created by luxiaobo on 2017/5/10.
