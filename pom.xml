@@ -13,6 +13,7 @@
     <modules>
         <module>shampoo-law-domain</module>
 		<module>shampoo-law-application</module>
+		<module>shampoo-law-service</module>
 	</modules>
 
     <parent>
