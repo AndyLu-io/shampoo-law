@@ -11,7 +11,6 @@
 
     <groupId>org.example</groupId>
     <artifactId>shampoo-law-infrastructure</artifactId>
-    <name>基础设施, 三方相关</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
