@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.example</groupId>
-    <artifactId>shampoo-law-infrastucture</artifactId>
+    <artifactId>shampoo-law-infrastructure</artifactId>
     <name>基础设施, 三方相关</name>
 
     <properties>
