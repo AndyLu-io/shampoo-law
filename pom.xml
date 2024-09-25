@@ -15,6 +15,7 @@
 		<module>shampoo-law-application</module>
 		<module>shampoo-law-service</module>
 		<module>shampoo-law-api</module>
+		<module>shampoo-law-common</module>
 	</modules>
 
     <parent>

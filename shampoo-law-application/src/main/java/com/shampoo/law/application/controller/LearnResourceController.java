@@ -1,6 +1,6 @@
-package com.shampoo.law.controller;
+package com.shampoo.law.application.controller;
 
-import com.shampoo.law.controller.conifg.LearnResource;
+import com.shampoo.law.application.conifg.LearnResource;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;

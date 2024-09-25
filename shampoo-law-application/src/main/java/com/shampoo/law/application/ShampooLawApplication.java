@@ -1,6 +1,6 @@
-package com.shampoo.law.controller;
+package com.shampoo.law.application;
 
-import com.shampoo.law.controller.conifg.ConfigBean;
+import com.shampoo.law.application.conifg.ConfigBean;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

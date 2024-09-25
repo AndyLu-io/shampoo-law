@@ -1,4 +1,4 @@
-package com.shampoo.law.controller.conifg;
+package com.shampoo.law.application.conifg;
 
 /**
  * Created by luxiaobo on 2017/5/10.

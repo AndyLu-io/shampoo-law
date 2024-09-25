@@ -1,4 +1,4 @@
-package com.shampoo.law.controller.conifg;
+package com.shampoo.law.application.conifg;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
