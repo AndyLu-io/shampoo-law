@@ -10,8 +10,8 @@
     </parent>
 
     <groupId>org.example</groupId>
-    <artifactId>shampoo-law-application</artifactId>
-    <name>业务逻辑封装，对外提供接口服务</name>
+    <artifactId>shampoo-law-component</artifactId>
+    <name>外部服务包装，公共逻辑封装</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

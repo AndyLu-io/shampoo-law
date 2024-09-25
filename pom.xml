@@ -14,8 +14,14 @@
         <module>shampoo-law-domain</module>
 		<module>shampoo-law-application</module>
 		<module>shampoo-law-service</module>
-		<module>shampoo-law-api</module>
+		<module>shampoo-law-client</module>
 		<module>shampoo-law-common</module>
+		<module>shampoo-law-start</module>
+		<module>shampoo-law-ability</module>
+		<module>shampoo-law-component</module>
+		<module>shampoo-law-framework</module>
+		<module>shampoo-law-extension</module>
+		<module>shampoo-law-infrastucture</module>
 	</modules>
 
     <parent>
