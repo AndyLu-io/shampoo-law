@@ -1,6 +1,8 @@
 package com.shampoo.law.application.controller;
 
 import com.shampoo.law.application.conifg.LearnResource;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
@@ -11,9 +13,11 @@ import java.util.List;
 /**
  * Created by luxiaobo on 2017/5/10.
  */
+@Api(tags = "测试")
 @RestController
 public class LearnResourceController {
     @RequestMapping("/learn")
+    @ApiOperation("分页查询酒店信息")
     public ModelAndView index(){
         List<LearnResource> learnList =new ArrayList<LearnResource>();
         LearnResource bean =new LearnResource("官方参考文档","Spring Boot Reference Guide","http://docs.spring.io/spring-boot/docs/1.5.1.RELEASE/reference/htmlsingle/#getting-started-first-application");
